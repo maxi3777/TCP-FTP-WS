@@ -1,0 +1,3 @@
+•	Server Directory: E:\Code\FTP_WS\ServerFolder
+•	Client Directory: E:\Code\FTP_WS\ClientFolder
+Setup the two folders on the PC before executing.
